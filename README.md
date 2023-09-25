@@ -11,7 +11,7 @@ This Go program converts YouTube video URLs into Piped Video URLs.
 
 2. Build the program:
    ```bash
-   cd youtube-to-piped
+   cd yt2piped
    go build main.go
    ```
 
